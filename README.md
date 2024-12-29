@@ -82,6 +82,8 @@ This repository contains an advanced machine learning framework for **P-wave ana
 
 ---
 
+### ⭐️ **If you find this repository useful, give it a star!**
+
 
  
 
